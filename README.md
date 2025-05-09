@@ -8,7 +8,7 @@ Welcome to the Catch the Cat game! This is a fun and simple game where you try t
 - Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/catch-the-cat-game.git
+git clone https://github.com/LadyKerr/catch-the-cat-game.git
 ```
 - Navigate to the project directory:
 
